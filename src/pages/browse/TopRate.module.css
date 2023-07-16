@@ -1,0 +1,35 @@
+.rate_top {
+  margin: 50px 5px;
+}
+.rate_top h3 {
+  font-size: 18px;
+  color: white;
+}
+.hinh_anh {
+  display: flex;
+  flex-direction: row;
+  overflow-x: scroll;
+}
+.hinh_anh img {
+  width: 180px;
+  height: 120px;
+}
+
+.hinh_anh img:hover {
+  width: 220px;
+  height: 140px;
+}
+
+.hinh_anh_origan {
+  display: flex;
+  flex-direction: row;
+  overflow-x: scroll;
+}
+.hinh_anh_origan img {
+  width: 150px;
+  height: 250px;
+}
+.hinh_anh_origan img:hover {
+  width: 170px;
+  height: 300px;
+}

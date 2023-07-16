@@ -1,0 +1,15 @@
+.daitail {
+  color: white;
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+  width: 1200px;
+  margin: 10px auto;
+}
+.tieude {
+  width: 600px;
+}
+.tieude h2 {
+  padding-bottom: 10px;
+  border-bottom: 1px solid white;
+}
