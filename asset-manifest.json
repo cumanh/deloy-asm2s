@@ -1,13 +1,21 @@
 {
   "files": {
-    "main.css": "/deploy-asm2/static/css/main.207ca866.css",
-    "main.js": "/deploy-asm2/static/js/main.72aab598.js",
-    "index.html": "/deploy-asm2/index.html",
-    "main.207ca866.css.map": "/deploy-asm2/static/css/main.207ca866.css.map",
-    "main.72aab598.js.map": "/deploy-asm2/static/js/main.72aab598.js.map"
+    "main.css": "/deploy-asm/static/css/main.d252be33.css",
+    "main.js": "/deploy-asm/static/js/main.864d03cb.js",
+    "static/media/fa-solid-900.ttf": "/deploy-asm/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/fa-brands-400.ttf": "/deploy-asm/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/deploy-asm/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/deploy-asm/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/deploy-asm/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/fa-regular-400.woff2": "/deploy-asm/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/deploy-asm/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/deploy-asm/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/deploy-asm/index.html",
+    "main.d252be33.css.map": "/deploy-asm/static/css/main.d252be33.css.map",
+    "main.864d03cb.js.map": "/deploy-asm/static/js/main.864d03cb.js.map"
   },
   "entrypoints": [
-    "static/css/main.207ca866.css",
-    "static/js/main.72aab598.js"
+    "static/css/main.d252be33.css",
+    "static/js/main.864d03cb.js"
   ]
 }
