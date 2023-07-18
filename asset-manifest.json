@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/deploy-asm2/static/css/main.207ca866.css",
+    "main.js": "/deploy-asm2/static/js/main.72aab598.js",
+    "index.html": "/deploy-asm2/index.html",
+    "main.207ca866.css.map": "/deploy-asm2/static/css/main.207ca866.css.map",
+    "main.72aab598.js.map": "/deploy-asm2/static/js/main.72aab598.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.207ca866.css",
+    "static/js/main.72aab598.js"
+  ]
+}
