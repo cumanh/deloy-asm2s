@@ -8,6 +8,7 @@
     "@testing-library/user-event": "^7.2.1",
     "axios": "^0.21.1",
     "clsx": "^1.2.1",
+    "firebase": "^10.0.0",
     "movie-trailer": "^3.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
