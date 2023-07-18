@@ -1,0 +1,42 @@
+.navbar {
+  background-color: #3a3294;
+
+  padding-left: 50px;
+}
+.booking-web {
+  position: relative;
+  top: 10px;
+  left: 10px;
+}
+.booking {
+  color: white;
+  font-size: 18px;
+}
+.register {
+  color: blue;
+  padding: 3px 6px;
+  position: absolute;
+  right: 200px;
+}
+.login {
+  color: blue;
+  padding: 3px 6px;
+  position: absolute;
+  right: 120px;
+}
+.nav-list {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  color: white;
+  margin-top: 40px;
+  margin-left: 10px;
+  padding: 20px 0px;
+}
+.nav-list i {
+  color: white;
+  margin-right: 5px;
+}
+.stay {
+  padding: 4px 8px;
+}

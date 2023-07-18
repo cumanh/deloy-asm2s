@@ -1,0 +1,25 @@
+.hotel-homstay {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  justify-content: center;
+  width: 80%;
+  margin: 10px auto;
+}
+.hotel-browse {
+  font-size: 30px;
+  margin: 50px 150px;
+}
+.hotel_0 {
+  width: 220px;
+  border-radius: 12px;
+}
+
+.hotel-img {
+  width: 220px;
+  height: 160px;
+  border-radius: 12px 12px 0px 0px;
+}
+.hotelcount {
+  color: gray;
+}

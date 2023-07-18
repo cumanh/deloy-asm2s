@@ -1,0 +1,40 @@
+.popup {
+  background-color: #ffbf00;
+  width: 25%;
+  border-radius: 12px;
+  margin: 20px 40px;
+}
+.des {
+  margin-top: 16px;
+}
+.input-des {
+  width: 80%;
+  height: 40px;
+  margin-top: 5px;
+  margin-bottom: 20px;
+}
+.check-day {
+  margin-bottom: 20px;
+}
+.date {
+  width: 80%;
+  height: 40px;
+}
+.mins {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  gap: 20px;
+  margin: 20px 0;
+  color: gray;
+}
+.search-popup {
+  width: 80%;
+  height: 40px;
+  margin: 10px 30px;
+  background-color: blue;
+  color: white;
+  font-size: 16px;
+}
+.mins > input {
+  width: 50px;
+}

@@ -1,0 +1,89 @@
+.khung {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  border: 1px solid rgb(179, 172, 172);
+  margin: 20px 0;
+}
+.list-img {
+  margin: 5px;
+  height: 240px;
+  width: 240px;
+}
+.list-name {
+  margin: 5px;
+  color: blue;
+}
+.list-distance {
+  color: gray;
+}
+.list-tag {
+  margin: 10px;
+  border: 1px solid gray;
+  background-color: rgb(76, 194, 68);
+  padding: 3px;
+  width: 200px;
+  text-align: center;
+  color: white;
+  border-radius: 12px;
+}
+.list-descri {
+  margin: 10px 0;
+  font-size: 14px;
+}
+.list-type {
+  margin: 10px 0;
+  font-size: 14px;
+}
+.list-free {
+  color: rgb(76, 194, 68);
+  font-weight: bold;
+  margin: 10px 0;
+  font-size: 13px;
+}
+.list-cancel {
+  color: rgb(76, 194, 68);
+  margin: 10px 0;
+  font-size: 13px;
+}
+.list-rtext {
+  color: rgba(0, 0, 255, 0.708);
+  margin-top: 10px;
+  font-size: 14px;
+  font-weight: bold;
+}
+.list-rate {
+  color: white;
+  padding: 2px;
+  background-color: blue;
+  position: relative;
+  left: 40px;
+  margin-top: 10px;
+}
+.includes {
+  margin-top: 100px;
+}
+.list-price {
+  font-size: 24px;
+  color: blue;
+  position: relative;
+  left: 100px;
+}
+.taxes {
+  color: gray;
+  margin: 10px 0;
+  font-size: 13px;
+}
+.see {
+  padding: 3px;
+  background-color: blue;
+  color: white;
+  width: 150px;
+  margin: auto;
+  text-align: center;
+  border-radius: 4px;
+}
+.khung-nho {
+  width: 90%;
+}

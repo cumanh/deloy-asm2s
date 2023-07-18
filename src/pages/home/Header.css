@@ -1,0 +1,59 @@
+.header {
+  color: rgba(255, 255, 255, 0.89);
+  background-color: #3a3294;
+  padding-left: 50px;
+}
+.lifetime {
+  font-size: 20px;
+  padding-top: 30px;
+}
+.header p {
+  margin: 20px;
+}
+.sign-in {
+  color: rgb(255, 255, 255);
+  background-color: rgb(0, 115, 255);
+  padding: 6px 12px;
+}
+.Submit-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  height: 30px;
+  gap: 5px;
+  border: 2px solid orange;
+  width: 90%;
+  margin: 20px auto;
+  background-color: white;
+  color: gray;
+  position: relative;
+  bottom: -15px;
+}
+.Submit-list input {
+  border: none;
+  color: gray;
+}
+.daterange {
+  width: 180px;
+  display: contents;
+  flex-direction: row;
+}
+.input {
+  width: 20px;
+  border: none;
+  margin-left: 30px;
+}
+.fas {
+  color: rgba(18, 73, 144, 0.208);
+}
+.list-submit label {
+  color: gray;
+  margin-right: 5px;
+}
+.header-search {
+  padding: 0 20px;
+  background-color: rgb(0, 115, 255);
+  color: white;
+  border: none;
+  font-size: 14px;
+}

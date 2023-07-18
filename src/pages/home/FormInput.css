@@ -1,0 +1,29 @@
+.form {
+  background-color: #3a3294;
+  height: 250px;
+  text-align: center;
+  color: white;
+  margin-bottom: 40px;
+}
+.save-time {
+  font-size: 36px;
+  font-weight: bold;
+  position: relative;
+  top: 20px;
+}
+.form p {
+  margin: 50px;
+}
+.mail-sub {
+  height: 100px;
+}
+.in-mail {
+  height: 30px;
+  width: 250px;
+  margin-right: 20px;
+}
+.subscribe {
+  height: 30px;
+  background-color: blue;
+  color: white;
+}
